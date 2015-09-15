@@ -1,10 +1,4 @@
-SPECIFICHE DEL PROGETTO DI SIW - APPELLO GIUGNO 2015
-
-Michele Ridolfi (461657)
-Marco Tabacchino (463410)
-Alessandro Temperoni (463415) 
-
-===========================================================
+SPECIFICHE DEL PROGETTO DI SIW - APPELLO SETTEMBRE 2015 Alessio Tomaselli 463409===========================================================
 
 Caso d'uso UC1: Consulta listino -> OK
 Caso d'uso UC2: Effettua ordine -> OK
